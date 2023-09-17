@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Nguyen Bao Chung, a junior Web Developer with full of enthusiasm with the software development industry.
 - Frontend: HTML, CSS/SCSS, JavaScript/jQuery, ReactJS, VueJS.
