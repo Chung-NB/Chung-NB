@@ -1,6 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Nguyen Bao Chung, a junior Web Developer with full of enthusiasm with the software development industry.
+
+My development knowledge and experience
 - Frontend: HTML, CSS/SCSS, JavaScript/jQuery, ReactJS, VueJS.
 - Backend: PHP, Laravel, MySQL/PostgreSQL, Docker, Linux, Nginx.
 
