@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Nguyen Bao Chung, a junior Web Developer with full of enthusiasm with the software development industry.
+I'm Nguyen Bao Chung, a Web Developer with full of enthusiasm with the software development industry.
 
 My development knowledge and experience
 - Frontend: HTML, CSS/SCSS, JavaScript/jQuery, ReactJS, VueJS.
-- Backend: PHP, Laravel, MySQL/PostgreSQL, Docker, Linux, Nginx.
+- Backend: PHP, Laravel, MySQL/PostgreSQL.
+- Server: Docker, Linux, Nginx.
+- Cloud: AWS.
 
 <!--
 **Chung-NB/Chung-NB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
