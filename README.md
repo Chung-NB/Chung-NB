@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Nguyen Bao Chung, a Web Developer with full of enthusiasm with the software development industry.
+I'm Nguyen Bao Chung, a Fullstack Web Developer with full of enthusiasm with the software development industry.
 
-My development knowledge and experience
-- Frontend: HTML, CSS/SCSS, JavaScript/jQuery, ReactJS, VueJS.
-- Backend: PHP, Laravel, MySQL/PostgreSQL.
-- Server: Docker, Linux, Nginx.
+My development knowledge and experiences:
+- Frontend: HTML, CSS/SCSS, JavaScript/jQuery, Angular, ReactJS, VueJS.
+- Backend: PHP, Laravel, MySQL/PostgreSQL/MongoDB, Redis, Kafka.
+- Server: Docker/K8S, Linux, Nginx.
 - Cloud: AWS.
 
 <!--
